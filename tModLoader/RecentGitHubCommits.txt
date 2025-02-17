@@ -1,0 +1,10 @@
+5d14656e84f68ce75c9f5f254ead408180dc9b57 Update MonoMod to 25.2.3 (Fixes launch issue on Arch Linux #4525, #4526)
+28c48952bb35591dec833dd113a8ee4a20db5e8b Fix dotnet detection under steam runtime. Fixes #4450 (#4462)
+57b68d0c12e04b0a44ba37c59ba146f043e6f529 tModPorter - Treat security vulnerability errors as warnings
+2c417f949a7a2766b1aaaa493729e41e079a09d6 Fix tModPorterLaunch BuildHost-netcore path finding for Workspaces.MSBuild 4.12.0
+b9a4773840a0e6a3e54ad0dc02592567bb9092f7 Trim dotnet --list-sdks output to remove misleading error message when there are no suitable sdks
+8de90e99562d6ca47e0fb441521f77918ded2a87 Fix #4508 (#4511)
+776b78b10babc4506456e3f45c78f5dcf218746d Attempt 1-  fix previous version fetch - multiple tags
+3e8342056453b05e1e503ce738e6c5a86cd4a47c feat: postpone hash verification until read error or mod load (#4492)
+4ff05d0c6f6f477d2e31bfceb1c42e27100885ab [1.4.4] Update Polish Localization (#4451)
+bf20125785e2f22ab9eab58bb67dc172c7b92c86 Update Brazilian Portuguese localization (#4479)
